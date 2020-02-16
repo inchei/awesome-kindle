@@ -13,12 +13,15 @@ Suggestions and contributions are welcome.
 ### Generator
 * [KindleEar](https://github.com/cdhigh/KindleEar) - An app to aggergate RSS for generating periodical mobi/epub file and send it automatically.
 * [KCC](https://github.com/ciromattia/kcc) - A Python app to convert comic files to e-books.
+* [Kindle Comic Creator](https://www.amazon.com/gp/feature.html?ie=UTF8&docId=1001103761) Kindle Comic Creator by Office
+* [Kindle Comic Converter](https://kcc.iosphe.re/) Support EPUB or MOBI format e-books.
 * [KindleBookMaker](https://github.com/barretlee/kindleBookMaker) - A kindle book generator whose data comes from uri contents, rss sources or local files.
 * [Kindlefodder](https://github.com/danchoi/kindlefodder) - A Ruby framework and a collection of recipes for translating website-bound books and documentation into Kindle ebooks.
 * [zhihuToKindle](https://github.com/Rockyzsu/zhihuToKindle) - An app to send answers from zhihu.com.
 ### Others
 * [KindleUnpack](https://github.com/kevinhendricks/KindleUnpack) - An app to  unpack Amazon / Kindlegen generated ebooks.
 * [Kindle-highlights](https://github.com/speric/kindle-highlights) - A Ruby gem for collecting your Kindle hightlights.
+* [hcc](https://github.com/ystyle/hcc) A online tool for convert [Hcomic](https://c-upp.com/) detail page's images into MOBI format e-books.
 
 ## Resources
 ### Ebooks reposities
