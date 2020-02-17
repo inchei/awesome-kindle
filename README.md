@@ -7,14 +7,13 @@ Suggestions and contributions are welcome.
 * [Koreader](https://github.com/koreader/koreader) - An ebook reader app running on kindle.
   * [KindlePdfViewer](https://github.com/koreader/kindlepdfviewer) - A PDF viewer on Koreader.
 
-## Ebook tools
+## Ebook Tools
 ### Manager
 * [Calibre](https://github.com/kovidgoyal/calibre) - A famous ebook manager.
 ### Generator
 * [KindleEar](https://github.com/cdhigh/KindleEar) - An app to aggergate RSS for generating periodical mobi/epub file and send it automatically.
-* [KCC](https://github.com/ciromattia/kcc) - A Python app to convert comic files to e-books.
-* [Kindle Comic Creator](https://www.amazon.com/gp/feature.html?ie=UTF8&docId=1001103761) Kindle Comic Creator by Office
-* [Kindle Comic Converter](https://kcc.iosphe.re/) Support EPUB or MOBI format e-books.
+* [Kindle Comic Converter](https://github.com/ciromattia/kcc) ((Official)[https://kcc.iosphe.re/]) - A Python app to convert comic files to e-books.
+* [Kindle Comic Creator](https://www.amazon.com/gp/feature.html?ie=UTF8&docId=1001103761) - Amazon official Kindle Comic Creator.
 * [KindleBookMaker](https://github.com/barretlee/kindleBookMaker) - A kindle book generator whose data comes from uri contents, rss sources or local files.
 * [Kindlefodder](https://github.com/danchoi/kindlefodder) - A Ruby framework and a collection of recipes for translating website-bound books and documentation into Kindle ebooks.
 * [zhihuToKindle](https://github.com/Rockyzsu/zhihuToKindle) - An app to send answers from zhihu.com.
@@ -24,7 +23,7 @@ Suggestions and contributions are welcome.
 * [Kindle-highlights](https://github.com/speric/kindle-highlights) - A Ruby gem for collecting your Kindle hightlights.
 
 ## Resources
-### Ebooks reposities
+### Ebooks Reposities
 * [KindleHelper](https://github.com/qq573011406/KindleHelper) - A Windows app to download Chinese web fiction, Windows only.
 * [Kindle 114](https://github.com/it-ebooks/kindle114-rsrc-gathering) - A collection of Chinese kindle ebooks.
 ### Specific Kindle ebooks
@@ -34,3 +33,6 @@ Suggestions and contributions are welcome.
 
 ## Others
 * [Kindle Weather Display](https://github.com/mpetroff/kindle-weather-display) (Achieved) - A tool to display weather only on Kindle.
+
+## Contribution Guidelines
+* Add items in `* (Project name)[url of GitHub reposity page / homepage] - Description`
