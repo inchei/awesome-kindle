@@ -12,7 +12,7 @@ Suggestions and contributions are welcome.
 * [Calibre](https://github.com/kovidgoyal/calibre) - A famous ebook manager.
 ### Generator
 * [KindleEar](https://github.com/cdhigh/KindleEar) - An app to aggergate RSS for generating periodical mobi/epub file and send it automatically.
-* [Kindle Comic Converter](https://github.com/ciromattia/kcc) ((Official)[https://kcc.iosphe.re/]) - A Python app to convert comic files to e-books.
+* [Kindle Comic Converter](https://github.com/ciromattia/kcc) ([Official](https://kcc.iosphe.re/)) - A Python app to convert comic files to e-books.
 * [Kindle Comic Creator](https://www.amazon.com/gp/feature.html?ie=UTF8&docId=1001103761) - Amazon official Kindle Comic Creator.
 * [KindleBookMaker](https://github.com/barretlee/kindleBookMaker) - A kindle book generator whose data comes from uri contents, rss sources or local files.
 * [Kindlefodder](https://github.com/danchoi/kindlefodder) - A Ruby framework and a collection of recipes for translating website-bound books and documentation into Kindle ebooks.
@@ -35,4 +35,4 @@ Suggestions and contributions are welcome.
 * [Kindle Weather Display](https://github.com/mpetroff/kindle-weather-display) (Achieved) - A tool to display weather only on Kindle.
 
 ## Contribution Guidelines
-* Add items in `* (Project name)[url of GitHub reposity page / homepage] - Description`
+* Add items in `* [Project name](url of GitHub reposity page / homepage) - Description`.
