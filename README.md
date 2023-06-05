@@ -5,13 +5,13 @@ Suggestions and contributions are welcome.
 
 ## Software
 * [Koreader](https://github.com/koreader/koreader) - An ebook reader app running on kindle.
-* [KindlePdfViewer](https://github.com/koreader/kindlepdfviewer) - A PDF viewer on Koreader.
-* [kindle2notion](https://github.com/paperboi/kindle2notion) - A program to copy all your Kindle highlights and notes to a page in Notion.
+  * [KindlePdfViewer](https://github.com/koreader/kindlepdfviewer) - A PDF viewer on Koreader.
 
 ## Ebook Tools
 ### Manager
 * [Calibre](https://github.com/kovidgoyal/calibre) - A famous ebook manager.
-* [Kindle-highlights](https://github.com/speric/kindle-highlights) - A Ruby gem for collecting your Kindle hightlights.
+* [Kindle-highlights](https://github.com/speric/kindle-highlights) - A Ruby gem for collecting your Kindle hightlights. 
+* [kindle2notion](https://github.com/paperboi/kindle2notion) - A program to copy all your Kindle highlights and notes to a page in Notion.
 ### Generator
 * [KindleEar](https://github.com/cdhigh/KindleEar) - An app to aggergate RSS for generating periodical mobi/epub file and send it automatically.
 * [Kindle Comic Converter](https://github.com/ciromattia/kcc) ([Official](https://kcc.iosphe.re/)) - A Python app to convert comic files to e-books.
