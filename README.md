@@ -25,7 +25,6 @@ Suggestions and contributions are welcome.
 ## Resources
 ### Ebooks Reposities
 * [KindleHelper](https://github.com/qq573011406/KindleHelper) - A Windows app to download Chinese web fiction, Windows only.
-* [Kindle 114](https://github.com/it-ebooks/kindle114-rsrc-gathering) - A collection of Chinese kindle ebooks.
 ### Specific Kindle ebooks
 * [SICP-kindle](https://github.com/twcamper/sicp-kindle) - The Kindle ebook of Structure and Interpretation of Computer Programs, 2nd Edition.
 * [geektime_dl](https://github.com/jachinlin/geektime_dl) - A tool to generate books from Geektime.
