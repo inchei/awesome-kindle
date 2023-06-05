@@ -5,11 +5,13 @@ Suggestions and contributions are welcome.
 
 ## Software
 * [Koreader](https://github.com/koreader/koreader) - An ebook reader app running on kindle.
-  * [KindlePdfViewer](https://github.com/koreader/kindlepdfviewer) - A PDF viewer on Koreader.
+* [KindlePdfViewer](https://github.com/koreader/kindlepdfviewer) - A PDF viewer on Koreader.
+* [kindle2notion](https://github.com/paperboi/kindle2notion) - A program to copy all your Kindle highlights and notes to a page in Notion.
 
 ## Ebook Tools
 ### Manager
 * [Calibre](https://github.com/kovidgoyal/calibre) - A famous ebook manager.
+* [Kindle-highlights](https://github.com/speric/kindle-highlights) - A Ruby gem for collecting your Kindle hightlights.
 ### Generator
 * [KindleEar](https://github.com/cdhigh/KindleEar) - An app to aggergate RSS for generating periodical mobi/epub file and send it automatically.
 * [Kindle Comic Converter](https://github.com/ciromattia/kcc) ([Official](https://kcc.iosphe.re/)) - A Python app to convert comic files to e-books.
@@ -19,13 +21,11 @@ Suggestions and contributions are welcome.
 * [zhihuToKindle](https://github.com/Rockyzsu/zhihuToKindle) - An app to send answers from zhihu.com.
 * [hcc](https://github.com/ystyle/hcc) - An online tool for convert [Hcomic](https://c-upp.com/) detail page's images into MOBI format e-books.
 ### Others
-* [KindleUnpack](https://github.com/kevinhendricks/KindleUnpack) - An app to  unpack Amazon / Kindlegen generated ebooks.
-* [Kindle-highlights](https://github.com/speric/kindle-highlights) - A Ruby gem for collecting your Kindle hightlights.
+* [KindleUnpack](https://github.com/kevinhendricks/KindleUnpack) - An app to unpack Amazon / Kindlegen generated ebooks.
 
 ## Resources
-### Ebooks Reposities
-* [KindleHelper](https://github.com/qq573011406/KindleHelper) - A Windows app to download Chinese web fiction, Windows only.
-### Specific Kindle ebooks
+* [KindleHelper](https://github.com/qq573011406/KindleHelper) - A Windows app to download Chinese web fiction.
+* [Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper/issues) - A tool to download books from Amazon.
 * [SICP-kindle](https://github.com/twcamper/sicp-kindle) - The Kindle ebook of Structure and Interpretation of Computer Programs, 2nd Edition.
 * [geektime_dl](https://github.com/jachinlin/geektime_dl) - A tool to generate books from Geektime.
 * [Kindle Open Books](https://github.com/ericzhang-cn/kindle-open-books) - A tool to generate opensource books from Calibre recipes.
