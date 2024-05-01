@@ -22,6 +22,7 @@ Suggestions and contributions are welcome.
 * [hcc](https://github.com/ystyle/hcc) - An online tool for convert [Hcomic](https://c-upp.com/) detail page's images into MOBI format e-books.
 ### Others
 * [KindleUnpack](https://github.com/kevinhendricks/KindleUnpack) - An app to unpack Amazon / Kindlegen generated ebooks.
+* [Kindle Clippings Cleaner](https://github.com/flawnn/KindleClippingsCleaner) - Remove duplicated entries from your clippings.txt for usage in third-party services like Readwise
 
 ## Resources
 * [KindleHelper](https://github.com/qq573011406/KindleHelper) - A Windows app to download Chinese web fiction.
