@@ -34,6 +34,7 @@ Suggestions and contributions are welcome.
 
 ## Others
 * [Kindle Weather Display](https://github.com/mpetroff/kindle-weather-display) (Achieved) - A tool to display weather only on Kindle.
+* [Kindle Side Card](https://github.com/perduewu-ops/kindle-side-card) - A local-first KUAL side display for dashboards and desktop status.
 
 ## Contribution Guidelines
 * Add items in `* [Project name](url of GitHub reposity page / homepage) - Description`.
