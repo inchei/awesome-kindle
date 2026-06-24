@@ -13,6 +13,7 @@ Suggestions and contributions are welcome.
 * [Kindle-highlights](https://github.com/speric/kindle-highlights) - A Ruby gem for collecting your Kindle hightlights. 
 * [kindle2notion](https://github.com/paperboi/kindle2notion) - A program to copy all your Kindle highlights and notes to a page in Notion.
 * [Kindle Highlights Exporter](https://xueboyang1985.github.io/kindle-exporter/) - A browser-based tool to export Kindle highlights to Markdown, CSV, or JSON. 100% local, no upload required.
+* [marginalia](https://github.com/VforVitorio/marginalia) - Turn handwritten Kindle Scribe notebooks (PDF) into Obsidian Markdown via local (Qwen3-VL/Ollama) or cloud OCR, with a side-by-side review step. Mirrors your Scribe folder structure.
 ### Generator
 * [KindleEar](https://github.com/cdhigh/KindleEar) - An app to aggergate RSS for generating periodical mobi/epub file and send it automatically.
 * [Kindle Comic Converter](https://github.com/ciromattia/kcc) ([Official](https://kcc.iosphe.re/)) - A Python app to convert comic files to e-books.
