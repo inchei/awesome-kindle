@@ -16,6 +16,7 @@ Suggestions and contributions are welcome.
 * [marginalia](https://github.com/VforVitorio/marginalia) - Turn handwritten Kindle Scribe notebooks (PDF) into Obsidian Markdown via local (Qwen3-VL/Ollama) or cloud OCR, with a side-by-side review step. Mirrors your Scribe folder structure.
 ### Generator
 * [KindleEar](https://github.com/cdhigh/KindleEar) - An app to aggergate RSS for generating periodical mobi/epub file and send it automatically.
+* [RSS to Kindle](https://www.rsstokindle.com/) - A hosted service to subscribe to RSS and Substack feeds and get the full articles delivered to your Kindle as a daily EPUB digest. Free for up to five articles a day.
 * [Kindle Comic Converter](https://github.com/ciromattia/kcc) ([Official](https://kcc.iosphe.re/)) - A Python app to convert comic files to e-books.
 * [Kindle Comic Creator](https://www.amazon.com/gp/feature.html?ie=UTF8&docId=1001103761) - Amazon official Kindle Comic Creator.
 * [KindleBookMaker](https://github.com/barretlee/kindleBookMaker) - A kindle book generator whose data comes from uri contents, rss sources or local files.
