@@ -17,6 +17,7 @@ Suggestions and contributions are welcome.
 ### Generator
 * [KindleEar](https://github.com/cdhigh/KindleEar) - An app to aggergate RSS for generating periodical mobi/epub file and send it automatically.
 * [RSS to Kindle](https://www.rsstokindle.com/) (Website, not open source) - A hosted service to subscribe to RSS and Substack feeds and get the full articles delivered to your Kindle as a daily EPUB digest. Free for up to five articles a day.
+* [Briefing Service — Morning Paper](https://briefing-service.wholemind.workers.dev/paper) (Website, not open source) - Hourly LLM-ranked news (AI, markets, sports, world) typeset as a multi-page PDF and delivered each morning by Send-to-Kindle or to reMarkable. Free PDF at `/v1/briefings/ai/paper.pdf`; delivery is $9/month.
 * [Kindle Comic Converter](https://github.com/ciromattia/kcc) ([Official](https://kcc.iosphe.re/)) - A Python app to convert comic files to e-books.
 * [Kindle Comic Creator](https://www.amazon.com/gp/feature.html?ie=UTF8&docId=1001103761) - Amazon official Kindle Comic Creator.
 * [KindleBookMaker](https://github.com/barretlee/kindleBookMaker) - A kindle book generator whose data comes from uri contents, rss sources or local files.
