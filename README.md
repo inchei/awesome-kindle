@@ -25,6 +25,7 @@ Suggestions and contributions are welcome.
 * [Kindlefodder](https://github.com/danchoi/kindlefodder) - A Ruby framework and a collection of recipes for translating website-bound books and documentation into Kindle ebooks.
 * [zhihuToKindle](https://github.com/Rockyzsu/zhihuToKindle) - An app to send answers from zhihu.com.
 * [hcc](https://github.com/ystyle/hcc) - An online tool for convert [Hcomic](https://c-upp.com/) detail page's images into MOBI format e-books.
+* [AI eBook Pro](https://aiebookpro.com/) (Website, not open source) - Turns a one-sentence idea into a complete eBook with chapters and a cover, exported as Kindle-ready EPUB, PDF or DOCX.
 ### Others
 * [KindleUnpack](https://github.com/kevinhendricks/KindleUnpack) - An app to unpack Amazon / Kindlegen generated ebooks.
 * [Kindle Clippings Cleaner](https://github.com/flawnn/KindleClippingsCleaner) - Remove duplicated entries from your clippings.txt for usage in third-party services like Readwise
