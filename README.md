@@ -39,6 +39,8 @@ Suggestions and contributions are welcome.
 ## Others
 * [Kindle Weather Display](https://github.com/mpetroff/kindle-weather-display) (Achieved) - A tool to display weather only on Kindle.
 * [Kindle Side Card](https://github.com/perduewu-ops/kindle-side-card) - A local-first KUAL side display for dashboards and desktop status.
+* [KindleHub](https://kindlehub.pro) - Free web page that turns a Kindle's stock browser into a home screen with 100+ e-ink games, 70,000 Project Gutenberg books, notes and other apps. No jailbreak, just bookmark the URL.
+* [KindleHub Device Pack](https://github.com/arancool3000/kindlehub-device-pack) - MIT-licensed KUAL extension that makes the stock browser fullscreen on a jailbroken Kindle, with power-button gestures, cover-only sleep and 229 redrawn UI icons.
 
 ## Contribution Guidelines
 * Add items in `* [Project name](url of GitHub reposity page / homepage) - Description`.
