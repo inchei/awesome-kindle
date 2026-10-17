@@ -14,11 +14,13 @@ Suggestions and contributions are welcome.
 * [kindle2notion](https://github.com/paperboi/kindle2notion) - A program to copy all your Kindle highlights and notes to a page in Notion.
 * [Kindle Highlights Exporter](https://xueboyang1985.github.io/kindle-exporter/) - A browser-based tool to export Kindle highlights to Markdown, CSV, or JSON. 100% local, no upload required.
 * [marginalia](https://github.com/VforVitorio/marginalia) - Turn handwritten Kindle Scribe notebooks (PDF) into Obsidian Markdown via local (Qwen3-VL/Ollama) or cloud OCR, with a side-by-side review step. Mirrors your Scribe folder structure.
+* [Lexpad](https://lexpad.app) (Website, not open source) - A vocabulary notebook with spaced repetition that imports the words you looked up on a Kindle (`vocab.db`) and highlights of up to four words from `My Clippings.txt`; AI can then add meanings and examples.
 ### Generator
 * [KindleEar](https://github.com/cdhigh/KindleEar) - An app to aggergate RSS for generating periodical mobi/epub file and send it automatically.
 * [RSS to Kindle](https://www.rsstokindle.com/) (Website, not open source) - A hosted service to subscribe to RSS and Substack feeds and get the full articles delivered to your Kindle as a daily EPUB digest. Free for up to five articles a day.
 * [Briefing Service — Morning Paper](https://briefing-service.wholemind.workers.dev/paper) (Website, not open source) - Hourly LLM-ranked news (AI, markets, sports, world) typeset as a multi-page PDF and delivered each morning by Send-to-Kindle or to reMarkable. Free PDF at `/v1/briefings/ai/paper.pdf`; delivery is $9/month.
 * [kdpbook.io](https://kdpbook.io) (Website, not open source) - An AI book studio for Amazon KDP: describe a book in a chat or import a manuscript, and it builds a Kindle eBook (EPUB, reflowable or fixed layout) plus the paperback interior and full-wrap cover PDFs. 2,000 free credits at signup (watermarked exports); paid plans from $25/month.
+* [Easy Book Translation](https://easybooktranslation.com) (Website, not open source) - Turns any EPUB into a bilingual (parallel-text) book: an AI translation is inserted under every paragraph, with names kept consistent and layout/images intact. Read it via Send-to-Kindle, Apple Books or Calibre. Free bilingual samples of public-domain classics; paid per book from $2.99.
 * [ImagineYourBook](https://www.imagineyourbook.com/) (Website, not open source) - An AI book workspace that plans and drafts full manuscripts, rewrites existing drafts in the author's voice, keeps series continuity with a story bible, and exports the finished book as EPUB, Word, or Markdown for Kindle publishing.
 * [Kindle Comic Converter](https://github.com/ciromattia/kcc) ([Official](https://kcc.iosphe.re/)) - A Python app to convert comic files to e-books.
 * [Kindle Comic Creator](https://www.amazon.com/gp/feature.html?ie=UTF8&docId=1001103761) - Amazon official Kindle Comic Creator.
@@ -40,6 +42,8 @@ Suggestions and contributions are welcome.
 ## Others
 * [Kindle Weather Display](https://github.com/mpetroff/kindle-weather-display) (Achieved) - A tool to display weather only on Kindle.
 * [Kindle Side Card](https://github.com/perduewu-ops/kindle-side-card) - A local-first KUAL side display for dashboards and desktop status.
+* [KindleHub](https://kindlehub.pro) - Free web page that turns a Kindle's stock browser into a home screen with 100+ e-ink games, 70,000 Project Gutenberg books, notes and other apps. No jailbreak, just bookmark the URL.
+* [KindleHub Device Pack](https://github.com/arancool3000/kindlehub-device-pack) - MIT-licensed KUAL extension that makes the stock browser fullscreen on a jailbroken Kindle, with power-button gestures, cover-only sleep and 229 redrawn UI icons.
 
 ## Contribution Guidelines
 * Add items in `* [Project name](url of GitHub reposity page / homepage) - Description`.
