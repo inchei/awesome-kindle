@@ -16,6 +16,7 @@ Suggestions and contributions are welcome.
 * [marginalia](https://github.com/VforVitorio/marginalia) - Turn handwritten Kindle Scribe notebooks (PDF) into Obsidian Markdown via local (Qwen3-VL/Ollama) or cloud OCR, with a side-by-side review step. Mirrors your Scribe folder structure.
 * [Lexpad](https://lexpad.app) (Website, not open source) - A vocabulary notebook with spaced repetition that imports the words you looked up on a Kindle (`vocab.db`) and highlights of up to four words from `My Clippings.txt`; AI can then add meanings and examples.
 ### Generator
+* [InboxToKindle](https://inboxtokindle.com/) - Send any email newsletter (Substack, beehiiv, Ghost, Medium, and more) to your Kindle automatically via a personal inbox address; strips ads, converts to EPUB. Free tier available.
 * [KindleEar](https://github.com/cdhigh/KindleEar) - An app to aggergate RSS for generating periodical mobi/epub file and send it automatically.
 * [RSS to Kindle](https://www.rsstokindle.com/) (Website, not open source) - A hosted service to subscribe to RSS and Substack feeds and get the full articles delivered to your Kindle as a daily EPUB digest. Free for up to five articles a day.
 * [Briefing Service — Morning Paper](https://briefing-service.wholemind.workers.dev/paper) (Website, not open source) - Hourly LLM-ranked news (AI, markets, sports, world) typeset as a multi-page PDF and delivered each morning by Send-to-Kindle or to reMarkable. Free PDF at `/v1/briefings/ai/paper.pdf`; delivery is $9/month.
