@@ -6,6 +6,7 @@ Suggestions and contributions are welcome.
 ## Software
 * [Koreader](https://github.com/koreader/koreader) - An ebook reader app running on kindle.
   * [KindlePdfViewer](https://github.com/koreader/kindlepdfviewer) - A PDF viewer on Koreader.
+* [PageDrop](https://github.com/spandan-kumar/PageDrop) - Android app that sends books over Wi-Fi to jailbroken Kindles running KOReader.
 
 ## Ebook Tools
 ### Manager
