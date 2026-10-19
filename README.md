@@ -44,6 +44,7 @@ Suggestions and contributions are welcome.
 * [Kindle Side Card](https://github.com/perduewu-ops/kindle-side-card) - A local-first KUAL side display for dashboards and desktop status.
 * [KindleHub](https://kindlehub.pro) - Free web page that turns a Kindle's stock browser into a home screen with 100+ e-ink games, 70,000 Project Gutenberg books, notes and other apps. No jailbreak, just bookmark the URL.
 * [KindleHub Device Pack](https://github.com/arancool3000/kindlehub-device-pack) - MIT-licensed KUAL extension that makes the stock browser fullscreen on a jailbroken Kindle, with power-button gestures, cover-only sleep and 229 redrawn UI icons.
+* [Inkwell](https://github.com/pragyaangaur/Inkwell) - An Alpine Linux userspace for the jailbroken Kindle Paperwhite 3 that runs on Amazon's kernel, with its own home screen, an offline chatbot that runs SmolLM2 through llama.cpp, Doom, the first version of Minecraft, a browser, notes, a sketchpad and SSH over USB.
 
 ## Contribution Guidelines
 * Add items in `* [Project name](url of GitHub reposity page / homepage) - Description`.
