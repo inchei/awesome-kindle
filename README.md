@@ -16,6 +16,7 @@ Suggestions and contributions are welcome.
 * [Kindle Highlights Exporter](https://xueboyang1985.github.io/kindle-exporter/) - A browser-based tool to export Kindle highlights to Markdown, CSV, or JSON. 100% local, no upload required.
 * [marginalia](https://github.com/VforVitorio/marginalia) - Turn handwritten Kindle Scribe notebooks (PDF) into Obsidian Markdown via local (Qwen3-VL/Ollama) or cloud OCR, with a side-by-side review step. Mirrors your Scribe folder structure.
 * [Lexpad](https://lexpad.app) (Website, not open source) - A vocabulary notebook with spaced repetition that imports the words you looked up on a Kindle (`vocab.db`) and highlights of up to four words from `My Clippings.txt`; AI can then add meanings and examples.
+* [Screvi](https://screvi.com) (Website, not open source) - A highlights manager that syncs your Kindle highlights daily (browser extension, mobile app or `My Clippings.txt`) and resurfaces them in a spaced-repetition daily review by app, email or widget. Exports to Obsidian, Notion and Markdown. Paid, with a 14-day free trial.
 ### Generator
 * [ComicScissors](https://github.com/rustsky/comicscissors) - Splits comic & manga pages into panels and repacks them so they are readable on Kindle and other e-readers without zooming. CLI and Calibre plugin.
 * [KindleEar](https://github.com/cdhigh/KindleEar) - An app to aggergate RSS for generating periodical mobi/epub file and send it automatically.
