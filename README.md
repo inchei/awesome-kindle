@@ -18,6 +18,9 @@ Suggestions and contributions are welcome.
 * [Lexpad](https://lexpad.app) (Website, not open source) - A vocabulary notebook with spaced repetition that imports the words you looked up on a Kindle (`vocab.db`) and highlights of up to four words from `My Clippings.txt`; AI can then add meanings and examples.
 * [Screvi](https://screvi.com) (Website, not open source) - A highlights manager that syncs your Kindle highlights daily (browser extension, mobile app or `My Clippings.txt`) and resurfaces them in a spaced-repetition daily review by app, email or widget. Exports to Obsidian, Notion and Markdown. Paid, with a 14-day free trial.
 ### Generator
+
+> The "generator" here means a tool to improve existing human-made content. Do not add tools to generate content mostly written by LLM.
+
 * [ComicScissors](https://github.com/rustsky/comicscissors) - Splits comic & manga pages into panels and repacks them so they are readable on Kindle and other e-readers without zooming. CLI and Calibre plugin.
 * [KindleEar](https://github.com/cdhigh/KindleEar) - An app to aggergate RSS for generating periodical mobi/epub file and send it automatically.
 * [RSS to Kindle](https://www.rsstokindle.com/) (Website, not open source) - A hosted service to subscribe to RSS and Substack feeds and get the full articles delivered to your Kindle as a daily EPUB digest. Free for up to five articles a day.
