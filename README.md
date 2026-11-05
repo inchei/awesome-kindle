@@ -69,6 +69,7 @@ Suggestions and contributions are welcome.
 <summary>Tools hosted on external websites are folded.</summary>
  
 * [KindleHub](https://kindlehub.pro) - Free web page that turns a Kindle's stock browser into a home screen with 100+ e-ink games, 70,000 Project Gutenberg books, notes and other apps. No jailbreak, just bookmark the URL.
+* [co.build Kindle mods](https://co.build/devices/kindle) - Open-source Kindle mods and tools, with owner reports by model and firmware.
 
 </details>
 
