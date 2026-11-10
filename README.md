@@ -47,6 +47,7 @@ Suggestions and contributions are welcome.
 * [DuoText](https://duotext.io/parallel-text-kindle/) - Turns an EPUB, PDF or Word file into a bilingual (parallel-text) book, with a machine translation beside or under every paragraph, as EPUB, AZW3, MOBI or PDF for Kindle and Kobo. Also a free library of graded bilingual short stories in 14 languages. 50 pages free, then from $5 a month.
 
 </details>
+* [BetterPDF Convert](https://betterpdfconvert.com/) - In-browser ebook converter (EPUB, AZW3, MOBI to PDF) preserving clickable Table of Contents bookmarks with E-ink/Kindle A5 layout presets.
 
 ### Others
 * [KindleUnpack](https://github.com/kevinhendricks/KindleUnpack) - An app to unpack Amazon / Kindlegen generated ebooks.
