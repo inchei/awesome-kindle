@@ -19,6 +19,7 @@ Suggestions and contributions are welcome.
 <details>
 <summary>Tools hosted on external websites are folded.</summary>
 
+* [Glasp](https://glasp.co/kindle-highlight-export) - A free web and PDF highlighter whose browser extension imports your Kindle highlights, so they sit in one place with your highlights from web pages, PDFs and YouTube. Also a free [My Clippings.txt converter](https://glasp.co/kindle-clippings-converter) that turns the file into CSV. Free plan; paid plans add more AI summaries.
 * [Lexpad](https://lexpad.app) - A vocabulary notebook with spaced repetition that imports the words you looked up on a Kindle (`vocab.db`) and highlights of up to four words from `My Clippings.txt`; AI can then add meanings and examples.
 * [Screvi](https://screvi.com) - A highlights manager that syncs your Kindle highlights daily (browser extension, mobile app or `My Clippings.txt`) and resurfaces them in a spaced-repetition daily review by app, email or widget. Exports to Obsidian, Notion and Markdown. Paid, with a 14-day free trial.
 
