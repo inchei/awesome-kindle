@@ -45,6 +45,7 @@ Suggestions and contributions are welcome.
 * [kdpbook.io](https://kdpbook.io) - An AI book studio for Amazon KDP: describe a book in a chat or import a manuscript, and it builds a Kindle eBook (EPUB, reflowable or fixed layout) plus the paperback interior and full-wrap cover PDFs. 2,000 free credits at signup (watermarked exports); paid plans from $25/month.
 * [Easy Book Translation](https://easybooktranslation.com) - Turns any EPUB into a bilingual (parallel-text) book: an AI translation is inserted under every paragraph, with names kept consistent and layout/images intact. Read it via Send-to-Kindle, Apple Books or Calibre. Free bilingual samples of public-domain classics; paid per book from $2.99.
 * [DuoText](https://duotext.io/parallel-text-kindle/) - Turns an EPUB, PDF or Word file into a bilingual (parallel-text) book, with a machine translation beside or under every paragraph, as EPUB, AZW3, MOBI or PDF for Kindle and Kobo. Also a free library of graded bilingual short stories in 14 languages. 50 pages free, then from $5 a month.
+* [TofuToon PDF to EPUB](https://tofutoon.com/tools/pdf-to-epub) - Turns a text PDF into a reflowable EPUB with real chapters you can rename before saving, ready for Send to Kindle. Runs in the browser; the file is never uploaded. Free, no account. Scanned PDFs are not supported.
 
 </details>
 
