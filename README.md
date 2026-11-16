@@ -19,6 +19,7 @@ Suggestions and contributions are welcome.
 <details>
 <summary>Tools hosted on external websites are folded.</summary>
 
+* [Glasp](https://glasp.co/kindle-highlight-export) - A free web and PDF highlighter whose browser extension imports your Kindle highlights, so they sit in one place with your highlights from web pages, PDFs and YouTube. Also a free [My Clippings.txt converter](https://glasp.co/kindle-clippings-converter) that turns the file into CSV. Free plan; paid plans add more AI summaries.
 * [Lexpad](https://lexpad.app) - A vocabulary notebook with spaced repetition that imports the words you looked up on a Kindle (`vocab.db`) and highlights of up to four words from `My Clippings.txt`; AI can then add meanings and examples.
 * [Screvi](https://screvi.com) - A highlights manager that syncs your Kindle highlights daily (browser extension, mobile app or `My Clippings.txt`) and resurfaces them in a spaced-repetition daily review by app, email or widget. Exports to Obsidian, Notion and Markdown. Paid, with a 14-day free trial.
 
@@ -41,11 +42,13 @@ Suggestions and contributions are welcome.
 <summary>Tools hosted on external websites are folded.</summary>
 
 * [RSS to Kindle](https://www.rsstokindle.com/) - A hosted service to subscribe to RSS and Substack feeds and get the full articles delivered to your Kindle as a daily EPUB digest. Free for up to five articles a day.
+* [TabToBook](https://chromewebstore.google.com/detail/tabtobook-save-articles-a/bknppdmpbnakclfjimaldnmamncmmhhn) - A Chrome extension that turns the web article in your current tab into a clean EPUB 3 (Readability text, table of contents, e-ink-safe images, editable title), built on your device with no account, then opens Amazon's Send to Kindle page to deliver it. Also works for Kobo and other EPUB readers. Free.
 * [Briefing Service — Morning Paper](https://briefing-service.wholemind.workers.dev/paper) - Hourly LLM-ranked news (AI, markets, sports, world) typeset as a multi-page PDF and delivered each morning by Send-to-Kindle or to reMarkable. Free PDF at `/v1/briefings/ai/paper.pdf`; delivery is $9/month.
 * [kdpbook.io](https://kdpbook.io) - An AI book studio for Amazon KDP: describe a book in a chat or import a manuscript, and it builds a Kindle eBook (EPUB, reflowable or fixed layout) plus the paperback interior and full-wrap cover PDFs. 2,000 free credits at signup (watermarked exports); paid plans from $25/month.
 * [Easy Book Translation](https://easybooktranslation.com) - Turns any EPUB into a bilingual (parallel-text) book: an AI translation is inserted under every paragraph, with names kept consistent and layout/images intact. Read it via Send-to-Kindle, Apple Books or Calibre. Free bilingual samples of public-domain classics; paid per book from $2.99.
 * [DuoText](https://duotext.io/parallel-text-kindle/) - Turns an EPUB, PDF or Word file into a bilingual (parallel-text) book, with a machine translation beside or under every paragraph, as EPUB, AZW3, MOBI or PDF for Kindle and Kobo. Also a free library of graded bilingual short stories in 14 languages. 50 pages free, then from $5 a month.
 * [Web to EPUB](https://webpagetoepub.com) - Turns a web article into a clean EPUB (no ads or menus; images and a cover kept) to read on a Kindle via Send-to-Kindle or on another e-reader. Several pages can go into one book. Free, no account. The page is fetched by the site's server, so pages behind a login or paywall may not convert.
+* [TofuToon PDF to EPUB](https://tofutoon.com/tools/pdf-to-epub) - Turns a text PDF into a reflowable EPUB with real chapters you can rename before saving, ready for Send to Kindle. Runs in the browser; the file is never uploaded. Free, no account. Scanned PDFs are not supported.
 
 </details>
 
