@@ -52,6 +52,7 @@ Suggestions and contributions are welcome.
 * [TofuToon PDF to EPUB](https://tofutoon.com/tools/pdf-to-epub) - Turns a text PDF into a reflowable EPUB with real chapters you can rename before saving, ready for Send to Kindle. Runs in the browser; the file is never uploaded. Free, no account. Scanned PDFs are not supported.
 
 </details>
+* [BetterPDF Convert](https://betterpdfconvert.com/) - In-browser ebook converter (EPUB, AZW3, MOBI to PDF) preserving clickable Table of Contents bookmarks with E-ink/Kindle A5 layout presets.
 
 ### Others
 * [KindleUnpack](https://github.com/kevinhendricks/KindleUnpack) - An app to unpack Amazon / Kindlegen generated ebooks.
