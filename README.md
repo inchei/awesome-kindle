@@ -50,6 +50,7 @@ Suggestions and contributions are welcome.
 * [DuoText](https://duotext.io/parallel-text-kindle/) - Turns an EPUB, PDF or Word file into a bilingual (parallel-text) book, with a machine translation beside or under every paragraph, as EPUB, AZW3, MOBI or PDF for Kindle and Kobo. Also a free library of graded bilingual short stories in 14 languages. 50 pages free, then from $5 a month.
 * [Web to EPUB](https://webpagetoepub.com) - Turns a web article into a clean EPUB (no ads or menus; images and a cover kept) to read on a Kindle via Send-to-Kindle or on another e-reader. Several pages can go into one book. Free, no account. The page is fetched by the site's server, so pages behind a login or paywall may not convert.
 * [TofuToon PDF to EPUB](https://tofutoon.com/tools/pdf-to-epub) - Turns a text PDF into a reflowable EPUB with real chapters you can rename before saving, ready for Send to Kindle. Runs in the browser; the file is never uploaded. Free, no account. Scanned PDFs are not supported.
+* [pdf2epub](https://epub.ftak.net/) - Turns a PDF book, scans included (OCR), into a reflowable EPUB for Kindle. It joins printed lines back into paragraphs, drops running heads and page numbers, and builds a clickable table of contents. Runs in the browser, no account; free up to 150 pages, longer books $5.
 
 </details>
 
