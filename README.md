@@ -4,6 +4,7 @@ A collection for awesome reposities that helps with Amazon Kindle.
 Suggestions and contributions are welcome.
 
 ## Software
+* [Aloud](https://github.com/nour-am/aloud) - A standalone audiobook player for jailbroken Kindles, with DRM-free M4B/MP3 playback, Bluetooth audio, chapter navigation, speed control, a sleep timer and background listening while reading.
 * [Koreader](https://github.com/koreader/koreader) - An ebook reader app running on kindle.
   * [KindlePdfViewer](https://github.com/koreader/kindlepdfviewer) - A PDF viewer on Koreader.
 * [PageDrop](https://github.com/spandan-kumar/PageDrop) - Android app that sends books over Wi-Fi to jailbroken Kindles running KOReader.
